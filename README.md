@@ -18,7 +18,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
 ## Practical Tasks: 
-➡ [**Python Text Toolkit - practical task**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Python%20Text%20Toolkit.md)
+➡ [**Student Data Analyzer - practical task**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Student%20Data%20Analyzer.md)
 
 <br>
 
