@@ -16,6 +16,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ## Theory Тests:   
 ➡ [**Data Types, Variables and Simple Operations - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Data%20Types%2C%20Variables%20and%20Simple%20Operations.md)
 
+➡ [**Conditional Statements - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Conditional%20Statements%20-%20TEST.md)
+
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
