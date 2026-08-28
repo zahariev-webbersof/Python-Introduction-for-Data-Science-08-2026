@@ -10,7 +10,9 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
     
 ## Table of Contents:    
 ➡ [**Exercise: Data Types, Variables and Simple Operations**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/tree/main/data_types_variables_and_simple_operators) 
-   
+
+➡ [**Exercise: Conditional Statements**]()
+
 ## Theory Тests:   
 ➡ [**Data Types, Variables and Simple Operations - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Data%20Types%2C%20Variables%20and%20Simple%20Operations.md)
 
