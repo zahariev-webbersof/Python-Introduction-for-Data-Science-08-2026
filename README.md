@@ -28,6 +28,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ## Practical Tasks: 
 ➡ [**Student Data Analyzer - practical task**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Student%20Data%20Analyzer.md)
 
+➡ [**Digital Book Collection Manager - practical task**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Digital%20Book%20Collection%20Manager.md)
+
 <br>
 
 </br>
