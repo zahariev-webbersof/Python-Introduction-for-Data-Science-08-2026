@@ -34,6 +34,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Digital Book Collection Manager - practical task**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Digital%20Book%20Collection%20Manager.md)
 
+➡ [**Student Performance Analyzer with Functions - practical task**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Student%20Performance%20Analyzer%20with%20Functions.md)
+
 <br>
 
 </br>
