@@ -15,7 +15,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Exercise: Loops**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/tree/main/Loops)
 
-➡ [**Exercise: Functions**]()
+➡ [**Exercise: Functions**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Python%20Functions%20-%20TEST.md)
 
 ## Theory Тests:   
 ➡ [**Data Types, Variables and Simple Operations - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Data%20Types%2C%20Variables%20and%20Simple%20Operations.md)
