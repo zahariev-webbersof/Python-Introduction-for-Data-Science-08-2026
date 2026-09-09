@@ -26,6 +26,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**Functions - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/Python%20Functions%20-%20TEST.md)
 
+➡ [**List - TEST**](https://github.com/zahariev-webbersof/Python-Introduction-for-Data-Science-08-2026/blob/main/List%20-%20Test.md)
+
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
 
